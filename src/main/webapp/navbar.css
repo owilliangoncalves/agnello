@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-agnello {
+  background-image: url('img/bg_agnello.png');
+  
+}

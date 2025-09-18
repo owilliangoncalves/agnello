@@ -24,7 +24,7 @@
         <div class="hero-content">
             <h1>Vinhedo Premium</h1>
             <p>A Vida é Muito Curta para Beber Vinho Ruim</p>
-            <a href="#products" class="btn">Explorar Coleção</a>
+            <a href="#products" class="btn">Excplorar Coleção</a>
         </div>
     </header>
 
