@@ -1,14 +1,17 @@
 module.exports = {
   content: [
-    './**/*.html',
-    './**/*.jsp',
-    './**/*.js',
-    './**/*.jsx',
-    './**/*.ts',
-    './**/*.tsx',
+    './src/main/webapp/**/*.{jsp,html,js}',
+  ],
+  safelist: [
+    'font-agnello',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        agnello: ['Vidaloka', 'serif'],
+		sans:['Poppins', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
-}
+};

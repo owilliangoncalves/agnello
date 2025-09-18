@@ -1,7 +1,14 @@
 {
   "dependencies": {
-    "@tailwindcss/postcss": "^4.1.13",
-    "postcss": "^8.5.6",
     "tailwindcss": "^4.1.13"
+  },
+  "scripts": {
+    "build:css": "postcss src/main/webapp/navbar.css -o src/main/webapp/dist/navbar.css --env production"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1"
   }
 }
