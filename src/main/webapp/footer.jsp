@@ -22,7 +22,7 @@
 				
 				<div class="hidden md:block h-24 w-px bg-gray-200 mx-auto"></div>
 				
-				<div class="text-center md:pl-12">
+				<div class="text-center">
 					<h3 class="text-xs tracking-[0.25em] font-semibold text-gray-800 mb-6">ENTRE EM CONTATO</h3>
 					<p class="text-sm text-gray-500">Se desejar entrar em contato conosco, mande uma mensagem</p>
 					<p class="text-sm text-gray-500">e aguarde para que um dos nosso colaboradores possa respondê-lo</p>

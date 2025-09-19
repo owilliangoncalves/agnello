@@ -10,10 +10,10 @@
 </head>
 <body class="font-sans">
 	
-	<div class="max-w-6xl mx-auto py-10 px-6 grid grid-cols-1 md:grid-cols-3 gap-8">
+	<div class=" container mx-auto py-10 px-6 flex gap-8">
 
   
-        <div class="flex items-start space-x-4">
+        <div class="flex  space-x-4">
             <img src="img/icon-trigo.svg" alt="Ingredientes Naturais" class="w-10 h-10 flex-shrink-0">
             <div>
                 <h3 class="font-bold uppercase text-sm">Ingredientes Naturais</h3>
