@@ -11,13 +11,13 @@
 
 <section id="produtos" class="bg-white py-16">
   <div class=" mx-auto px-4">
-    <!-- Título -->
+    
     <h2 class="text-center text-[#8a1538] font-serif text-xl mb-10">Nossos Produtos</h2>
 
-    <!-- Grid 3x3 -->
+    
     <div class="grid grid-cols-3  gap-x-10 gap-y-16">
 
-      <!-- Card (use este bloco e repita mudando a imagem/labels) -->
+      
       <article class="text-center">
         <!-- img MAIOR e sem fundo/caixa -->
         <img
