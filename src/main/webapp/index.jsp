@@ -11,5 +11,6 @@
 <body>
     <%@ include file="navbar.jsp" %>
 	<%@ include file="tips.jsp" %>
+	<%@ include file="footer.jsp" %>
 </body>
 </html>
